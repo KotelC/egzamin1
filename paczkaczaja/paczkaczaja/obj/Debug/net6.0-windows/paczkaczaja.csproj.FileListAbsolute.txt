@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\paczkaczaja_MarkupCompile.cache
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\paczkaczaja.g.resources
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\paczkaczaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\paczkaczaja.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\paczkaczaja.AssemblyInfo.cs
+C:\Users\student\source\repos\paczkaczaja\paczkaczaja\obj\Debug\net6.0-windows\paczkaczaja.csproj.CoreCompileInputs.cache
